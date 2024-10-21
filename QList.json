@@ -2,32 +2,12 @@
     "quests": [
         {
             "id": 1,
-            "name": "Excavator",
+            "name": "GlimmersInTheDark",
             "event": "break",
             "materials": [
                 {
-                    "material": "dirt",
-                    "qty": 45
-                },
-                {
-                    "material": "grass_block",
-                    "qty": 15
-                }
-            ]
-        },
-
-        {
-            "id": 2,
-            "name": "Miner",
-            "event": "break",
-            "materials": [
-                {
-                    "material": "coal_ore",
-                    "qty": 45
-                },
-                {
-                    "material": "diamond_ore",
-                    "qty": 15
+                    "material": "glowstone",
+                    "qty": 128
                 }
             ]
         }
