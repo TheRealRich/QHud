@@ -11,5 +11,16 @@
                 }
             ]
         }
+        {
+            "id": 2,
+            "name": "excavator",
+            "event": "break",
+            "materials": [
+                {
+                    "material": "dirt",
+                    "qty": 3
+                }
+            ]
+        }
     ]
 }
