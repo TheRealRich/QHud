@@ -10,6 +10,29 @@
                     "qty": 128
                 }
             ]
+        },
+        {
+            "id": 2,
+            "name": "SpringTulips",
+            "event": "break",
+            "materials": [
+                {
+                    "material": "pink_tulip",
+                    "qty": 64
+                },
+                {
+                    "material": "white_tulip",
+                    "qty": 64
+                },
+                {
+                    "material": "orange_tulip",
+                    "qty": 64
+                },
+                {
+                    "material": "red_tulip",
+                    "qty": 64
+                }
+            ]
         }
     ]
 }
