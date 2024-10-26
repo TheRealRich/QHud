@@ -33,6 +33,29 @@
                     "qty": 64
                 }
             ]
+        },
+        {
+            "id": 3,
+            "name": "LegacyStrippedWoods",
+            "event": "strip",
+            "materials": [
+                {
+                    "material": "stripped_spruce_log",
+                    "qty": 64
+                },
+                {
+                    "material": "stripped_jungle_log",
+                    "qty": 64
+                },
+                {
+                    "material": "stripped_oak_log",
+                    "qty": 64
+                },
+                {
+                    "material": "stripped_birch_log",
+                    "qty": 64
+                }
+            ]
         }
     ]
 }
